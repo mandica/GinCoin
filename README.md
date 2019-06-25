@@ -1,11 +1,11 @@
 # GIN Coin
 Shell script to install a [GIN Coin Masternode](https://gincoin.io) on a Linux server running Ubuntu 16.04. Use it on your own risk.
-This script will install **GIN 1.2.1.0**
+This script will install **GIN 1.3**
 
 ***
 ## Installation:
 ```
-wget -N https://raw.githubusercontent.com/zoldur/GinCoin/master/gin_install.sh
+wget -N https://raw.githubusercontent.com/mandica/GinCoin/master/gin_install.sh
 bash gin_install.sh
 ```
 ***
